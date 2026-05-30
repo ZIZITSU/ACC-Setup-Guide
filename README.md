@@ -1,4 +1,4 @@
-# AGR ACC Setup Guide
+# AGR ACC Setup Guide.
 
 ![AGR Logo](icons/AGR_logo_v3.png)
 
